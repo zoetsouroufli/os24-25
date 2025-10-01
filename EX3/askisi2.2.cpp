@@ -240,4 +240,5 @@ shared_data_t *shared = create_shared_memory_area(sizeof(shared_data_t));
         reset_xterm_color(1);
         return 0;
 
+
 }
