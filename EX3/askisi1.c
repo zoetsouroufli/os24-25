@@ -385,3 +385,4 @@ write(1, addr, size);
                 perror("close");
         return 0;
 }
+
